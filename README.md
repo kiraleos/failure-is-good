@@ -8,3 +8,5 @@ Objective of the game is to pass through as many obstacles as possible
 - Move cube using W,A,S,D
 - Press 'Space' to pause
 - Press 'R' to restart
+
+![Screenshot 2022-01-09 152804](https://user-images.githubusercontent.com/8905812/148684186-e5751336-59ea-4c9f-81a7-b62ed2ff741f.png)
